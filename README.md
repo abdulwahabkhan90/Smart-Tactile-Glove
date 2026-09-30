@@ -513,16 +513,6 @@ Potential future development includes:
 
 ---
 
-# 📁 Repository Status
-
-> **Note:** This repository currently serves as a **project showcase and technical documentation repository**.
-
-The original development source files are not currently included in this public repository. The documentation describes the final prototype, system architecture, hardware configuration, interaction methodology, and implementation concepts.
-
-Source code can be added in a future repository revision when the original development files are recovered and organized.
-
----
-
 # 🎓 Academic Project
 
 **Project:** Smart Tactile Glove
